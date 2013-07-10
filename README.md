@@ -33,8 +33,3 @@ Bundle 'yonchu/accelerated-smooth-scroll'
 - [accelerated-smooth-scroll - vim.org] (http://www.vim.org/scripts/script.php?script_id=4640)
 
 - [Japanese Manual](http://yonchu.hatenablog.com/entry/2013/05/16/204727)
-
-## Note
-
-I am sorry if my English is hard to understand.
-Please feel free to point it out if there are any mistakes and improvements,
